@@ -651,7 +651,7 @@ public class MainTicTacToe extends javax.swing.JFrame {
     }//GEN-LAST:event_BtnResetearActionPerformed
 
     private void BtnNuevoJuegoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_BtnNuevoJuegoActionPerformed
-                Btn1.setEnabled(true);
+        Btn1.setEnabled(true);
         Btn2.setEnabled(true);
         Btn3.setEnabled(true);
         Btn4.setEnabled(true);
